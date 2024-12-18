@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\bin\Debug\net8.0\Week8FWR.exe
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\bin\Debug\net8.0\Week8FWR.deps.json
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\bin\Debug\net8.0\Week8FWR.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\bin\Debug\net8.0\Week8FWR.dll
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\bin\Debug\net8.0\Week8FWR.pdb
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.dll
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\refint\Week8FWR.dll
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.pdb
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\Week8FWR.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week8FWR\Week8FWR\obj\Debug\net8.0\ref\Week8FWR.dll
